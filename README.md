@@ -8,6 +8,14 @@
 - 无其他模组前置
 - 语言：简体中文 / English
 
+## 截图 Screenshots
+
+![指令圣典封面：翻书查指令](docs/screenshots/01_cover.png)
+
+![指令分类与拼音搜索](docs/screenshots/02_categories.png)
+
+![指令圣典功能一览](docs/screenshots/03_features.png)
+
 ## 下载
 
 请到 [Releases](../../releases) 页面下载 jar（版本 1.1.0）。
